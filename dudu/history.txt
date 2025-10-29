@@ -1,0 +1,415 @@
+    1  hello
+    2  clear
+    3  sdsad
+    4  sdasdasdasd
+    5  clear
+    6  sadasdsa
+    7  cd
+    8  cd ..
+    9  cd ..
+   10  cd ..
+   11  cd ..
+   12  scp ec2-user@linux.itcareerhub.de:/opt/010825-ptm/vladimir/owibka.txt .
+   13  cd
+   14  ssh-keygen
+   15  cat [200~.ssh/id_ed25519.pub
+   16  cat .ssh/id_ed25519
+   17  cat .ssh/id_ed25519.pub
+   18  ssh ec2-user@linux.itcareerhub.de
+   19  ssh ec2-user@linux.itcareerhub.de
+   20  ssh ec2-user@linux.itcareerhub.de
+   21  ssh ec2-user@linux.itcareerhub.de
+   22  cat .ssh/id_ed2519.pub
+   23  cat .ssh/id_rsa.pub
+   24  cat .ssh/id_ed25519.pub
+   25  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC26BgFqd9QJ2S5tczEtkjTW4GCFd+ni1KPGEjVFeCbz Volodymyr@DESKTOP-L778MU9
+   26  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC26BgFqd9QJ2S5tczEtkjTW4GCFd+ni1KPGEjVFeCbz Volodymyr@DESKTOP-L778MU9
+   27  clear
+   28  ssh ec2-user@linux.itcareerhub.de
+   29  [200~
+   30  ssh ec2-user@linux.itcareerhub.de
+   31  ssh ec2-user@linux.itcareerhub.de
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  ssh ec2-user@linux.itcareerhub.de
+   35  git init git_introPUNK
+   36  git init C:/Users/Volodymyr/Desktop/SMTH
+   37  git init
+   38  git add 17538762906320s.jpg
+   39  git add 17538762906320s.jpg
+   40  git add 17538762906320s
+   41  git add 17538762906320s
+   42  git init C:/Users/Volodymyr/Desktop/git_introPUNK
+   43  git add 17538762906320s.jpg
+   44  git add 17538762906320s
+   45  git init C:/Users/Volodymyr/Desktop/git_introPUNK
+   46  git add 17538762906320s
+   47  git add 17538762906320s.jpg
+   48  git commit -m "Added photo"
+   49  git config --global user.email utkaduck156@duck.com
+   50  git config --global user.name Vladimir651
+   51  git commit -m "Added photo"
+   52  git branch -M main
+   53  git remote add origin git@github.com:Vladimir651/git_intro.git
+   54  git push -u origin main
+   55  git init git_introPUNK
+   56  git init 
+   57  git add 17538762906320s.jpg
+   58  git init c:/Users/Volodymyr/git_introPUNK/.git/
+   59  git git_introPUNK
+   60  git init git_introPUNK
+   61  git init git_introPUNK
+   62  git add git_introPUNK/17538762906320s.jpg
+   63  git commit -m "Added funny photo"
+   64  git commit git_introPUNK -m "Added funny photo"
+   65  git commit git_introPUNK/.git -m "Added funny photo"
+   66  git commit git_introPUNK/17538762906320s.jpg -m "Added funny photo"
+   67  git commit C:/Users/Volodymyr/git_introPUNK/1717
+   68  git commit C:/Users/Volodymyr/git_introPUNK/17538762906320s.jpg -m "Added photo"
+   69  git commit -m "Added photo" C:/Users/Volodymyr/git_introPUNK/ 
+   70  git commit C:/Users/Volodymyr/git_introPUNK/ -m "Added photo" 
+   71  git commit -m "Added some photo"
+   72  git commit git_introPUNK -m "Added some photo"
+   73  git commit -m git_introPUNK "Added some photo"
+   74  git commit -m "Added some photo" git_introPUNK
+   75  git commit -m "Added some photo" git_introPUNK/.git/HEAD
+   76  git commit -m "Added some photo" C:/Users/Volodymyr/git_introPUNK/.git/HEAD
+   77  git commit -m "Added some photo" C:/Users/Volodymyr/git_introPUNK/
+   78  git git commit -m "first commit"
+   79  git commit -m "first commit"
+   80  git add
+   81  git config --global user.name Vladimir651
+   82  git config --global user.email utkaduck156@duck.com
+   83  git commit -m "first commit"
+   84  git commit git_introPUNK -m "Added photo"
+   85  git branch -a
+   86  git branch git_introPUNK -M main
+   87  git init git_introPUNK
+   88  git add 17538762906320s.jpg
+   89  git add git_introPUNK/17538762906320s.jpg
+   90  git commit -m git_introPUNK "Added photo"
+   91  git commit -m "Added photo" git_introPUNK
+   92  git commit -m "Added photo" git_introPUNK/17538762906320s.jpg
+   93  git commit -m "Added photo" 17538762906320s.jpg
+   94  git commit -m "Added photo" 17538762906320s.jpg
+   95  git rm intro_gitPUNK
+   96  git rm git_introPUNK
+   97  cd C:/Users/Volodymyr/Desktop
+   98  touch gay.txt
+   99  init intro_gitPUNK
+  100  git init intro_gitPUNK
+  101  git add intro_gitPUNK/17538762906320s.jpg
+  102  git commit -m "Added some photo"
+  103  git commit -m intro_gitPUNK "Added some photo"
+  104  git commit -m "Added some photo" intro_gitPUNK 
+  105  git commit -m "Added some photo" intro_gitPUNK/17538762906320s.jpg 
+  106  git ini git_intro
+  107  git init git_intro
+  108  git add git_intro/17538762906320s.jpg
+  109  git commit -m "Added funny photo"
+  110  cd git_intro
+  111  git commit -m "Added funny photo"
+  112  git add
+  113  git commit -m "Added some funny photo" 17538762906320s.jpg
+  114  git add  17538762906320s.jpg
+  115  git commit -m "I added some photo!"
+  116  git branch -M main
+  117  git remote add origin git@github.com:Vladimir651/git_intro.git
+  118  git push -u origin main
+  119  #!/bin/bash
+  120  date
+  121  echo Hello, my dear $USER! I am working from the /root directory!
+  122  ps -ef | grep "bioset" | head 
+  123  ls -l /etc/passwd  | awk '{print $1}' 
+  124   
+  125  git clone https://github.com/justinmeza/lci.git
+  126  cd lci
+  127  cmake .
+  128  pwd
+  129  cmake 
+  130  make && make install
+  131  cd lci
+  132  cmake .
+  133  cmake -help
+  134  lci -h
+  135  ls
+  136  install.py -h
+  137  historz
+  138  history
+  139  clear
+  140  git status
+  141  git status
+  142  update
+  143  mkdir InterestingRepo
+  144  cd InterestingRepo/
+  145  git rev-parse --show-toplevel
+  146  git init 
+  147  touch 1.txt ; touch 2.txt
+  148  date > 1.txt ; date > 2.txt
+  149  cat 1.txt ; cat 2.txt
+  150  git status
+  151  git add .
+  152  git status
+  153  git rm --cached 1.txt
+  154  git status
+  155  git branch -M main
+  156  git branch -m main
+  157  git remote origin git@github.com:Vladimir651/InterestingRepo.git
+  158  git remote -add origin git@github.com:Vladimir651/InterestingRepo.git
+  159  git remote --add origin git@github.com:Vladimir651/InterestingRepo.git
+  160  git remote origin add git@github.com:Vladimir651/InterestingRepo.git
+  161  git remote add origin git@github.com:Vladimir651/InterestingRepo.git
+  162  git remote -v
+  163  git status
+  164  git commit -m "2.txt"
+  165  git log
+  166  git push -u origin main
+  167  git fetch all
+  168  git remote -v
+  169  git fetch --all
+  170  ls -al
+  171  git status
+  172  git merge origin -main
+  173  git merge origin/main
+  174  git rebase origin/main
+  175  ls -la
+  176  git status
+  177  git push -u origin main
+  178  git log
+  179  chto vershit sud`bu chelovechestva v etom mire?
+  180  cd InterestingRepo
+  181  ls -la
+  182  git status
+  183  git branch
+  184  git checkout -b gitignore
+  185  git log
+  186  .gitignore
+  187  nano .gitignore
+  188  git status
+  189  git add .
+  190  git commit -m "add gitignore"
+  191  touch smth.bmp
+  192  git status
+  193  touch smth.jpg
+  194  git status
+  195  git push -u origin gitignore
+  196  git branch
+  197  git log
+  198  git switch main
+  199  git checkout main
+  200  git checkout gitignore
+  201  git checkout main
+  202  git branch
+  203  git log
+  204  git merge gitignore
+  205  ls -la
+  206  git status
+  207  git push
+  208  git fetch --all
+  209  git push
+  210  git rebase origin/main
+  211  git push
+  212  git branch -d gitignore
+  213  git log
+  214  history
+  215  git log --oneline
+  216  git log --graph
+  217  git log --oneline --graph
+  218  git log --oneline --graph
+  219  git checkout 5e74151
+  220  git log
+  221  git status
+  222  ls -al
+  223  git checkout main
+  224  nano .gitignore
+  225  git add .
+  226  git commit -m "Changed .gitignore :D"
+  227  git push
+  228  mkdir C:/Users/Volodymyr/HUGO/
+  229  cd C:/Users/Volodymyr/HUGO/
+  230  git clone git@github.com:Vladimir651/hugo-coder.git
+  231  ls -la
+  232  ls -al hugo-coder
+  233  git log
+  234  cd hugo-coder/
+  235  git log
+  236  git log --oneline
+  237  git log --oneline --graph
+  238  q
+  239  cd ..
+  240  git clone git@github.com:Vladimir651/testtt.git
+  241  cd testtt/
+  242  git remote -v
+  243  git remote add upstream https://github.com/iohichu/testtt.git
+  244  ls
+  245  git remote -v
+  246  podonok 
+  247  podonok prover -b proverka
+  248  git checkout -b test
+  249  touch VovkaNinja.txt
+  250  git add .
+  251  git log
+  252  git commit -m "Отправляю файл!"
+  253  git switch main
+  254  git merge test
+  255  git push
+  256  git fetch upstream
+  257  git merge upstream/main
+  258  git log
+  259  ls
+  260  git config --global core.excludesfile .gitignore
+  261  mkdir git-branch
+  262  cd git-branch
+  263  git init
+  264  git branch gitignore
+  265  git status
+  266  git -help
+  267  git -h
+  268  git branch -a
+  269  git branch gitignore
+  270  git branch main
+  271  git switch main
+  272  git branch -g
+  273  git branch -m main
+  274  git branch -m gitignore
+  275  touch .gitignore
+  276  nano .gitignore
+  277  git branch -D main
+  278  git switch main
+  279  git branch -a
+  280  git branch --all
+  281  git status
+  282  mkdir git-branch ; cd git-branch
+  283  git clone git@github.com:Vladimir651/git-branch.git
+  284  ls
+  285  cd git-branch
+  286  cd ..
+  287  cd .
+  288  clear
+  289  rename git-branch git-branch1
+  290  rename
+  291  git rename
+  292  git --help
+  293  ls
+  294  mv git-branch git-branch1
+  295  ls
+  296  ls
+  297  cd ..
+  298  pwd
+  299  git clone git@github.com:Vladimir651/git-branch.git
+  300  git clone git@github.com:Vladimir651/git-branch.git
+  301  ls
+  302  cd git-branch
+  303  git status
+  304  git checkout -b gitignore
+  305  git switch main
+  306  nano .gitignore
+  307  ls
+  308  find .gitignore
+  309  git status
+  310  git add .gitignore 
+  311  git commit -m "УРАААААААААААААААААААААААААААААААААА! Added gitignore! С праздником!"
+  312  git push origin gitignore
+  313  git log
+  314  git log --graph
+  315  history
+  316  git checkout -b main
+  317  git switch gitignore
+  318  git log
+  319  git switch main
+  320  git log 
+  321  cd ..
+  322  mkdir dudu
+  323  cd dudu
+  324  git init
+  325  git checkout -b main
+  326  touch 1.sh
+  327  git checkout -b gitignore
+  328  touch .gitignore 
+  329  git switch main
+  330  git log
+  331  cd ..
+  332  mkdir dudu
+  333  git init 
+  334  touch 1.txt
+  335  cd dudu
+  336  git init
+  337  git checkout -b main
+  338  nano smth.sh
+  339  git commit -m "Added a real code"
+  340  git add smth.sh
+  341  git commit "I made it!"
+  342  git commit -m "Added a real code named smth.sh"
+  343  git branch -M main
+  344  git branch -m main
+  345  git checkout -b gitignore
+  346  git log
+  347  git switch main
+  348  cd ..
+  349  mkdir dudu ; cd dudu
+  350  git init
+  351  echo "haha" >> 1.txt
+  352  git add 1.txt
+  353  git branch -M main
+  354  git checkout -b gitignore
+  355  git switch main
+  356  git switch master
+  357  git log
+  358  mkdir dudu ; cd dudu
+  359  git init
+  360  git checkout -b main
+  361  git switch master
+  362  git checkout -b gitignore
+  363  git switch main
+  364  git checkout -b main
+  365  git switch gitignore
+  366  touch 1.txt
+  367  git add 1.txt ; git commit -m "Added it."
+  368  git checkout -b gitignore
+  369  git switch main
+  370  ssh linux.itcareerhub.de
+  371  ssh ec2-user@linux.itcareerhub.de
+  372  ssh ec2-user@linux.itcareerhub.de
+  373  ssh ec2-user@linux.itcareerhub.de
+  374  ssh ec2-user@linux.itcareerhub.de
+  375  ssh ec2-user@linux.itcareerhub.de
+  376  ssh ec2-user@linux.itcareerhub.de
+  377  ssh ec2-user@linux.itcareerhub.de
+  378  ssh ec2-user@linux.itcareerhub.de
+  379  exit
+  380  ls
+  381  pwd
+  382  git clone git@github.com:Vladimir651/dudu.git
+  383  cd dudu
+  384  git checkout -help
+  385  git checkout -b feature
+  386  touch README.md && "DONT DO IT! DO NOT READ ME, YOU FOOL!" > README.md
+  387  touch README.md && echo "DONT DO IT! DO NOT READ ME, YOU FOOL!" > README.md
+  388  touch .gitignore && echo "WAIT-WAIT, WHAT SHOULD I IGNORE?! WHY DID YOU CREATEME?! AM I SUPPOSED TO EXIST AS A USELESS FILE FOR YOUR BLOODY EXPERIMENTS?!" > .gitignore
+  389  git status
+  390  git add .
+  391  git status
+  392  git commit -m "Added 2 files!"
+  393  git branch -M feature
+  394  git remote add origin git@github.com:Vladimir651/dudu.git
+  395  git push -u origin feature
+  396  git commit --amend -h
+  397  git commit --amend -m "Added 2 files...Wait-wait! I forgot this one thing: ammend. YEY!"
+  398  git commit --amend -m "Added 2 files...Wait-wait! I forgot this one thing: ammend. YEY!"
+  399  git commit --amend "Added 2 files...Wait-wait! I forgot this one thing: ammend. YEY!"
+  400  git add .
+  401  git status
+  402  git commit --amend "Added 2 files...Wait-wait! I forgot this one thing: ammend. YEY!"
+  403  git add .
+  404  git commit --amend "Added 2 files...Wait-wait! I forgot this one thing: ammend. YEY!"
+  405  git add README.md
+  406  git add .gitignore
+  407  git commit --amend "Added 2 files...Wait-wait! I forgot this one thing: ammend. YEY!"
+  408  git status
+  409  git commit --amend --help 
+  410  git commit --amend "ammend. or not?" 
+  411  history
+  412  cd dudu
+  413  git switch main
+  414  git merge feature
+  415  history > history.txt
